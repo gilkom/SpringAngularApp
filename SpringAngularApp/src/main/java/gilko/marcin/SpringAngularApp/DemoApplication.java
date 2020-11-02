@@ -17,7 +17,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import gilko.marcin.entities.Car;
 import gilko.marcin.repositories.CarRepository;
 
-@EnableResourceServer
 @SpringBootApplication
 public class DemoApplication {
 	
