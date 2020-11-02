@@ -1,0 +1,5 @@
+
+> client@0.0.0 ng D:\jee-2019-06\SpringAngularApp\client
+> ng "s" "__design__" "--port" "5678"
+
+Compiling @angular/core : es2015 as esm2015
